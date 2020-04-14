@@ -7,3 +7,9 @@ To run properly, install these:
 pip install selenium
 pip install pyvirtualdisplay
 ```
+
+or run
+
+```
+pip install -r requirements.txt
+```
